@@ -1,5 +1,7 @@
 # 第八届 “强网杯” 全国网络安全挑战赛
 
+**附件存放在本仓库的 Github Release 中**
+
 ## Misc
 
 ### pickle_jail
